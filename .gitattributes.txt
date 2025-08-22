@@ -1,0 +1,15 @@
+# Ensure binary files are treated as binary by Git
+*.fbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.tiff binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.mb binary
+*.ma binary
